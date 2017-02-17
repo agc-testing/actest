@@ -18,3 +18,4 @@ source $vagrant_bashrc
 cd /home/vagrant/wired7-demo
 gem install bundler
 
+echo "123"
